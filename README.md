@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# PocketED-K
-=======
 # PocketED-K: Single-Lead ECG Hypokalemia Risk Tool
 
 PocketED-K is a lightweight research toolkit for single-lead ECG based hypokalemia screening. It is distilled from the internal `mc-med` workflow into a GitHub-friendly tool repository, with a simpler structure for training, temporal splitting, and batch inference.
@@ -113,4 +110,3 @@ python inference.py \
 - This repository is a tool-style extraction of the internal workflow, not a full archival dump.
 - Large checkpoints, TensorBoard logs, and raw sensitive cohort files are intentionally excluded.
 - Clinical use requires separate validation, signal quality control, and governance review.
->>>>>>> 39e8375 (Initial PocketED-K tool release)
