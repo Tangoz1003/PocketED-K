@@ -1,0 +1,2 @@
+MRN,CSN,Order_time,Component_value,hypo_class,num_matched_ecgs,dat_path_1,index_interval_1
+patient_001,visit_001,2026-01-01T08:00:00Z,3.1,1,1,/path/to/record.dat,"[0, 5000]"

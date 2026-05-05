@@ -1,0 +1,3 @@
+MRN,CSN,Order_time,split
+patient_001,visit_001,2026-01-01T08:00:00Z,train
+patient_002,visit_002,2026-02-01T08:00:00Z,test
